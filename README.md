@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&dark_icons=true)
+
+A Javascript enthusiast who specializes in the React library along with its ecosystem (npm, Redux, Sass/SCSS, next.js, Webpack). I also know the basics of Typescript, allowing me to create scalable and easier to maintain applications. My goal is to be a Frontend Developer. 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
