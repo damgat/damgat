@@ -1,4 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="60" />
+
+### Hi there, I'm Damian 👋
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5k1Wu87CzkDfrx0Xwj/giphy.gif" width="480" height="270"/>
+</div>
+
 
 <!--
 **damgat/damgat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +26,50 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue&dark_icons=true)
+---
 
-A Javascript enthusiast who specializes in the React library along with its ecosystem (npm, Redux, Sass/SCSS, next.js, Webpack). I also know the basics of Typescript, allowing me to create scalable and easier to maintain applications. My goal is to be a Frontend Developer. 
+### Who am I?
 
+A Javascript enthusiast who is keen in the React library along with its ecosystem (npm, Redux, Sass/SCSS, Webpack). I also know the basics of Typescript, allowing me to create scalable and easier to maintain applications. My goal is to be a Frontend Developer. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### Here is What I'm Working On!
+- 🔭 I’m currently working as Web Developer
+- 🌱 I’m currently learning everything and much more
+- 😄 I’m looking to work with React.js, Next.js
+- 💬 Ask me about Anything!
+- ⚡ Fun fact: When I was in high school I created websites using tables.
+
+---
+
+### My stats:
+
+![Damian Gatkowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=damgat&theme=bear_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damgat&layout=compact)](https://github.com/damgat/github-readme-stats)
+
+---
+
+### Contact info:
+
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/gatkowski/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
