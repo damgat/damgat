@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="60" />
-
 ### Hi there, I'm Damian 👋
 </div>
 
@@ -69,7 +67,7 @@ A Javascript enthusiast who is keen in the React library along with its ecosyste
 
 ### Contact info:
 
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/gatkowski/)">
+  <a href="[https://www.linkedin.com/in/gatkowski/]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
