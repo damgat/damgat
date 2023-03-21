@@ -1,5 +1,7 @@
 <div align="center">
-### Hi there, I'm Damian 👋
+<h2>
+  Hi there, I'm Damian 👋
+  </h2>
 </div>
 
 ---
@@ -67,7 +69,7 @@ A Javascript enthusiast who is keen in the React library along with its ecosyste
 
 ### Contact info:
 
-  <a href="[https://www.linkedin.com/in/gatkowski/]">
+  <a href="https://www.linkedin.com/in/gatkowski/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
