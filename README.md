@@ -47,6 +47,7 @@ A Javascript enthusiast who is keen in the React library along with its ecosyste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
@@ -66,7 +67,7 @@ A Javascript enthusiast who is keen in the React library along with its ecosyste
 ### My stats:
 
 ![Damian Gatkowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=damgat&theme=bear_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damgat&layout=compact)(https://github.com/damgat/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damgat&layout=compact)
 
 ---
 
