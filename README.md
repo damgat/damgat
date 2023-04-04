@@ -67,7 +67,7 @@ A Javascript enthusiast who is keen in the React library along with its ecosyste
 ### My stats:
 
 ![Damian Gatkowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=damgat&theme=bear_icons=true)
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damgat&layout=compact&theme=radical" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damgat&layout=compact)
 
 ---
 
