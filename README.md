@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Who am I?
 
-A Javascript enthusiast who is keen in the React library along with its ecosystem (Redux, Formik, npm, Webpack, Sass). I also know the basics of Typescript, allowing me to create scalable and easier to maintain applications. My goal is to be a Frontend Developer. 
+A Javascript enthusiast who is keen in the React library along with its ecosystem and tools (Redux, Router, Formik, npm, Webpack, Sass). I also know the basics of Typescript, allowing me to create scalable and easier to maintain JS applications. My goal is to be a Frontend Developer. 
 
 ---
 
