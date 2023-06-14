@@ -62,13 +62,13 @@ A Javascript enthusiast who is keen in the React library along with its ecosyste
 - ⚡ Fun fact: When I was in high school I created websites using tables.
 
 ---
-
+<!-- 
 ### My stats:
 
 ![Damian Gatkowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=damgat&theme=bear_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damgat&layout=compact)
 
----
+--- -->
 
 ### Contact info:
 
