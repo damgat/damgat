@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Who am I?
 
-A Javascript enthusiast who is keen in the React library along with its ecosystem and tools (TypeScript, Redux, Router, Formik, npm, Webpack, Styled Components). I'm open to cooperate in developing non-profit applications. My goal is to be a Frontend Developer. 
+A Javascript enthusiast who is keen in the React library along with its ecosystem and tools (TypeScript, Redux, Router, Formik, npm, Webpack). I'm open to cooperate in developing non-profit applications. My goal is to be a React Frontend Developer. 
 
 ---
 
@@ -55,7 +55,7 @@ A Javascript enthusiast who is keen in the React library along with its ecosyste
 ---
 
 ### Here is What I'm Working On!
-- 🔭 I’m currently working as Web Developer
+- 🔭 I’m currently working as Junior Frontend Developer
 - 🌱 I’m currently learning everything and much more
 - 😄 I’m looking to work with React.js, Next.js
 - 💬 Ask me about Anything!
