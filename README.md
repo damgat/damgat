@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Who am I?
 
-A Javascript enthusiast who is keen in the React library along with its ecosystem and tools (TypeScript, Redux, Router, Formik, npm, Webpack). I'm open to cooperate in developing non-profit applications. My goal is to be a React Frontend Developer. 
+I am a self-taught JavaScript developer with first commercial experience. In free time I'm developing my skills by working on personal projects. Prior to my career in web development, I accumulated eight years of professional experience in the field of architecture. By combining my architectural expertise with frontend development, I strive to deliver aesthetically pleasing and functional digital experiences.
 
 ---
 
