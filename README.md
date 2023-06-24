@@ -60,7 +60,7 @@ I am a self-taught JavaScript developer with first commercial experience. In fre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" title="ESLint" **alt="ESLint" width="40" height="40"/>&nbsp;          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<!--   LINUX, NEXT, SQL, STORYBOOK, CSS in JS, node, SEO, CI/CD -->
+<!--   LINUX, NEXT.js, SQL, STORYBOOK, CSS in JS, Styled Components, node, SEO, CI/CD -->
 </div>
 
 ### Here is What I'm Working On!
